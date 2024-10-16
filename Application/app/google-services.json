@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "746042286387",
+    "project_id": "tei-allilepidrasi",
+    "storage_bucket": "tei-allilepidrasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746042286387:android:884773f2339d584e2e5e46",
+        "android_client_info": {
+          "package_name": "advhci.ihu.gr.vl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746042286387-dgjgb6eobarfuo8chcv82l16m12cm4nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZgG24x6eOy1LKFKxSQAt7_d0GzNr5R9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746042286387-dgjgb6eobarfuo8chcv82l16m12cm4nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746042286387:android:6c24d03e0c00f2882e5e46",
+        "android_client_info": {
+          "package_name": "com.example.drawermenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746042286387-dgjgb6eobarfuo8chcv82l16m12cm4nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZgG24x6eOy1LKFKxSQAt7_d0GzNr5R9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746042286387-dgjgb6eobarfuo8chcv82l16m12cm4nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddProductsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="24dp"
+        android:text="ADD PRODUCT"
+        android:textAlignment="center"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/upeditText1"
+        android:layout_width="238dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="product name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/upeditText2"
+        android:layout_width="238dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="prodcut supplier"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/upeditText3"
+        android:layout_width="239dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="product price"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/upeditText4"
+        android:layout_width="239dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="product category"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/upeditText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="product description"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/updateuser"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="0dp"
+        android:text="ADD" />
+
+</LinearLayout>
